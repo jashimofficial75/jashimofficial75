@@ -25,6 +25,11 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
   <img src="https://github-readme-stats.vercel.app/api?username=jashimuddin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashimuddin&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+
 
 ## 🛠 Tech Stack
 
