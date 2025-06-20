@@ -39,7 +39,7 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 - 🧑‍💼 [LinkedIn](https://linkedin.com) — *Coming soon*
 - 🌐 [Portfolio Website](https://your-portfolio.com) — *In development*
-- 📬 Email: **youremail@example.com**
+- 📬 Email: **jashim.official75@gmail.com**
 
 ---
 
