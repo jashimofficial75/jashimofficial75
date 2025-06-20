@@ -1,16 +1,51 @@
-## Hi there 👋
-[https://raw.githubusercontent.com/rajaprerak/rajaprerak/master/developer.gif](https://private-user-images.githubusercontent.com/184033518/378258402-123ef07e-d091-4bb7-9ebc-38647ddd4055.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0Nzk5ODUsIm5iZiI6MTcyOTQ3OTY4NSwicGF0aCI6Ii8xODQwMzM1MTgvMzc4MjU4NDAyLTEyM2VmMDdlLWQwOTEtNGJiNy05ZWJjLTM4NjQ3ZGRkNDA1NS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyMVQwMzAxMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MDI0MDA4NzQ1NzI3MTMxMDkxOTI4ZWY4YjFlZGNjMDhkZTA4MDdiN2YzNzk3N2M1YmI3ZTUyZGIzMTFhNDI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KMiXuTZxf8dIK4qFjbhkceGAFgEvTuHvuWsfeoL6fBc)
-<!--
-**jashimofficial75/jashimofficial75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Jashim Uddin
 
-Here are some ideas to get you started:
+### 🎨 Front-End Designer at [Appifylab](https://appifylab.com)
+*Fully dedicated to building great products with one team, one dream.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a passionate Front-End Designer based in Bangladesh 🇧🇩, currently working at **Appifylab**.  
+I focus on crafting **beautiful**, **responsive**, and **accessible** user interfaces with HTML, CSS, Tailwind CSS, JavaScript, and React.js.
+
+I believe in clean code, pixel-perfect design, and building impactful digital experiences with a strong team spirit.  
+> _"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs_
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- 🎨 **Styling:** Tailwind CSS, Sass, CSS Modules
+- ⚛️ **Libraries & Frameworks:** React.js, Next.js, GSAP
+- 🧩 **Design Tools:** Figma, Adobe XD, Canva
+- 🚀 **Version Control:** Git, GitHub
+- 🌐 **Other Tools:** Vite, VS Code, Netlify, Vercel
+
+---
+
+## 📌 My Goals
+
+- 🔄 Improve in animation and transitions with **GSAP**
+- 🧠 Master advanced **React & Next.js** techniques
+- 🧑‍💻 Become a **ThemeForest-Ready Front-End Developer**
+- 🌍 Contribute to open-source and give back to the community
+
+---
+
+## 📫 Let's Connect!
+
+- 🧑‍💼 [LinkedIn](https://linkedin.com) — *Coming soon*
+- 🌐 [Portfolio Website](https://your-portfolio.com) — *In development*
+- 📬 Email: **youremail@example.com**
+
+---
+
+### 💡 One Team, One Dream
+
+> **"Great products are built by great teams."**  
+Let’s build something amazing together!
+
+---
