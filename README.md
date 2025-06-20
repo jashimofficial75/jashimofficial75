@@ -15,6 +15,10 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Designer+at+Appifylab;Building+Pixel+Perfect+UI;One+Team+One+Dream;Loving+React+%26+Tailwind+CSS" alt="Typing SVG" />
+</p>
+
 ## 🛠 Tech Stack
 
 - 💻 **Languages:** HTML5, CSS3, JavaScript (ES6+)
