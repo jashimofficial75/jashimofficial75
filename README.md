@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Jashim Uddin
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Designer+at+Appifylab;Building+Pixel+Perfect+UI;One+Team+One+Dream;Loving+React+%26+Tailwind+CSS" alt="Typing SVG" />
+</p>
+
 ### 🎨 Front-End Designer at [Appifylab](https://appifylab.com)
 *Fully dedicated to building great products with one team, one dream.*
 
@@ -15,9 +19,12 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 ---
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Designer+at+Appifylab;Building+Pixel+Perfect+UI;One+Team+One+Dream;Loving+React+%26+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jashimuddin&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ## 🛠 Tech Stack
 
