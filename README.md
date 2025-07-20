@@ -20,14 +20,44 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 ---
 
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-- 💻 **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- 🎨 **Styling:** Tailwind CSS, Sass, CSS Modules
-- ⚛️ **Libraries & Frameworks:** React.js, Next.js, GSAP
-- 🧩 **Design Tools:** Figma, Adobe XD, Canva
-- 🚀 **Version Control:** Git, GitHub
-- 🌐 **Other Tools:** Vite, VS Code, Netlify, Vercel
+## 💻 Languages
+![HTML5](https://img.icons8.com/color/48/html-5.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
+![JavaScript](https://img.icons8.com/color/48/javascript.png)
+![C](https://img.icons8.com/color/48/c-programming.png)
+
+## 🎨 Styling
+![Tailwind CSS](https://img.icons8.com/color/48/tailwindcss.png)
+![Sass](https://img.icons8.com/color/48/sass.png)
+🧩 CSS Modules
+
+## ⚛️ Libraries & Frameworks
+![React](https://img.icons8.com/color/48/react-native.png)
+![Next.js](https://img.icons8.com/ios-filled/48/000000/nextjs.png)
+🌀 GSAP
+
+## 🧠 CMS & Platforms
+🛒 Shopify  
+🌐 WordPress
+
+## 🎨 Design Tools
+![Figma](https://img.icons8.com/color/48/figma--v1.png)
+![Adobe XD](https://img.icons8.com/color/48/adobe-xd.png)
+![Canva](https://img.icons8.com/color/48/canva.png)
+![Photoshop](https://img.icons8.com/color/48/adobe-photoshop.png)
+![Illustrator](https://img.icons8.com/color/48/adobe-illustrator.png)
+
+## 💻 Code & Deployment Tools
+![Git](https://img.icons8.com/color/48/git.png)
+![GitHub](https://img.icons8.com/ios-glyphs/48/github.png)
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48">
+![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![CodePen](https://img.icons8.com/ios-filled/48/codepen.png)
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" width="48" height="48">
+![Netlify](https://img.icons8.com/ios-filled/48/netlify.png)
+
 
 ---
 
