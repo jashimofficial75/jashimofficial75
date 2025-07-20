@@ -19,48 +19,45 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 ---
 
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
-<img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" alt="HTML5" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="JavaScript" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" alt="C" width="40"/>
+<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C Language" width="40"/>
 
 ## 🎨 Styling
-<img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" alt="Tailwind CSS" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/sass.png" alt="Sass" width="40"/>
-🧩 CSS Modules
+<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40"/>
+<img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/>
+<img src="https://img.icons8.com/color/48/sass.png" alt="Sass" width="40"/>
+<img src="https://img.icons8.com/color/48/css.png" alt="CSS Modules" width="40"/>
 
 ## ⚛️ Libraries & Frameworks
-<img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" alt="React.js" width="40"/>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="40"/>
+<img src="https://img.icons8.com/ios-filled/48/jquery.png" alt="jQuery" width="40"/>
 <img src="https://raw.githubusercontent.com/gsap/branding/master/logo-square.png" alt="GSAP" width="40"/>
 
-## 🌐 Backend & Platforms
-<img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" width="40"/>
+## 🌐 CMS & Platforms
 <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="WordPress" width="40"/>
 
-## 🎨 Design Tools
-<img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/adobe-xd.png" alt="Adobe XD" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/canva.png" alt="Canva" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/adobe-photoshop.png" alt="Photoshop" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/adobe-illustrator.png" alt="Illustrator" width="40"/>
+## 🧠 Design Tools
+<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="40"/>
+<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" width="40"/>
 
 ## 🧰 Code & Deployment Tools
-<img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40"/>
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" width="40"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+<img src="https://img.icons8.com/ios-filled/48/codepen.png" alt="CodePen" width="40"/>
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" width="40"/>
 <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="40"/>
-
 
 ---
 
