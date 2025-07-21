@@ -57,7 +57,7 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub" width="40"/>
 <img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="40" style="background-color:white; border-radius:4px; padding:2px;"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codepen.svg" alt="CodePen" title="CodePen" width="40" style="filter: invert(1) !important;"/>
+<img src="https://img.icons8.com/color/48/codepen.png" alt="CodePen" title="CodePen" width="40"/>
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" title="Vercel" width="40"/>
 <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" title="Netlify" width="40"/>
 
