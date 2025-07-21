@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Front-End Designer based in Bangladesh 🇧🇩, currently working at **Appifylab**.  
+I'm a passionate Front-End Developer based in Bangladesh 🇧🇩, currently working at **Appifylab**.  
 I focus on crafting **beautiful**, **responsive**, and **accessible** user interfaces with HTML, CSS, Tailwind CSS, JavaScript, and React.js.
 
 I believe in clean code, pixel-perfect design, and building impactful digital experiences with a strong team spirit.  
