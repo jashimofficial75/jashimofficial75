@@ -43,7 +43,7 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 <!-- 🌐 CMS & Platforms -->
 <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" title="Shopify" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="WordPress" title="WordPress" width="40"/>
+<img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress" title="WordPress" width="40"/>
 
 <!-- 🎨 Design Tools -->
 <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma" width="40"/>
