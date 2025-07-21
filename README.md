@@ -64,6 +64,15 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 <!-- 🖥 Node.js -->
 <img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" width="60"/>
 
+<!-- 📝 TypeScript -->
+<img src="https://img.icons8.com/color/60/typescript.png" alt="TypeScript" title="TypeScript" width="60"/>
+
+<!-- 🔴 Redux -->
+<img src="https://img.icons8.com/color/60/redux.png" alt="Redux" title="Redux" width="60"/>
+
+</div>
+
+
 </div>
 
 ---
