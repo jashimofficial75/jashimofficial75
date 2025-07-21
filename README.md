@@ -21,43 +21,48 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 # 🛠 Tech Stack
 
-## 💻 Languages  
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40"/>
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/>
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
-<img src="https://img.icons8.com/color/48/c-programming.png" alt="C Language" width="40"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px; background-color: #0d1117; border-radius: 10px;">
 
-## 🎨 Styling  
-<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="40"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="40"/>
-<img src="https://img.icons8.com/color/48/sass.png" alt="Sass" width="40"/>
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS Modules" width="40"/>
+<!-- 💻 Languages -->
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" width="40"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" width="40"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40"/>
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C Language" title="C Language" width="40"/>
 
-## ⚛️ Libraries & Frameworks  
-<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40"/>
-<img src="https://img.icons8.com/color/48/jquery.png" alt="jQuery" width="40"/>
-<img src="https://raw.githubusercontent.com/gsap/branding/master/logo.png" alt="GSAP" width="40"/>
+<!-- 🎨 Styling -->
+<img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="40"/>
+<img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40"/>
+<img src="https://img.icons8.com/color/48/sass.png" alt="Sass" title="Sass" width="40"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS Modules" title="CSS Modules" width="40"/>
 
-## 🌐 CMS & Platforms  
-<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="WordPress" width="40"/>
+<!-- ⚛️ Frameworks & Libraries -->
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" title="React" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+<img src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jQuery" title="jQuery" width="40"/>
+<img src="https://raw.githubusercontent.com/gsap/branding/master/logo-1.svg" alt="GSAP" title="GSAP" width="40"/>
 
-## 🎨 Design Tools  
-<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40"/>
-<img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="40"/>
-<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/>
-<img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" width="40"/>
-<img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" width="40"/>
+<!-- 🌐 CMS & Platforms -->
+<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" title="Shopify" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="WordPress" title="WordPress" width="40"/>
 
-## 🧰 Code & Deployment Tools  
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
-<img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub" width="40"/>
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40"/>
-<img src="https://img.icons8.com/ios-filled/48/codepen.png" alt="CodePen" width="40"/>
-<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" width="40"/>
-<img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="40"/>
+<!-- 🎨 Design Tools -->
+<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" title="Adobe XD" width="40"/>
+<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" title="Canva" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" title="Photoshop" width="40"/>
+<img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" title="Illustrator" width="40"/>
+
+<!-- 🧰 Tools -->
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub" width="40" style="filter: invert(1);"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="40"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/codepen.png" alt="CodePen" title="CodePen" width="40" style="filter: invert(1);"/>
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" title="Vercel" width="40"/>
+<img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" title="Netlify" width="40"/>
+
+</div>
+
 
 ---
 
