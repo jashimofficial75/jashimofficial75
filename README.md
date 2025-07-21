@@ -61,6 +61,9 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" title="Vercel" width="60"/>
 <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" title="Netlify" width="60"/>
 
+<!-- 🖥 Node.js -->
+<img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js" title="Node.js" width="60"/>
+
 </div>
 
 ---
