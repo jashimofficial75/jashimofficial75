@@ -38,7 +38,7 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 <!-- ⚛️ Frameworks & Libraries -->
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" title="React" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
-<img src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jQuery" title="jQuery" width="40" style="filter: invert(1);"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/jquery.png" alt="jQuery" title="jQuery" width="40"/>
 <img src="https://assets.codepen.io/16327/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1688741522&width=512" alt="GSAP" title="GSAP" width="40" style="border-radius: 50%; background-color: white;"/>
 
 <!-- 🌐 CMS & Platforms -->
