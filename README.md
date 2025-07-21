@@ -38,8 +38,8 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 <!-- ⚛️ Frameworks & Libraries -->
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React" title="React" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
-<img src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jQuery" title="jQuery" width="40"/>
-<img src="https://raw.githubusercontent.com/gsap/branding/master/logo-1.svg" alt="GSAP" title="GSAP" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jQuery" title="jQuery" width="40" style="filter: invert(1);"/>
+<img src="https://greensock.com/uploads/monthly_2020_11/greensock-logo-light.png.12205efdd1ddc85891110cc8897f1dbf.png" alt="GSAP" title="GSAP" width="40" style="border-radius: 4px;"/>
 
 <!-- 🌐 CMS & Platforms -->
 <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" title="Shopify" width="40"/>
@@ -54,15 +54,14 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 <!-- 🧰 Tools -->
 <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub" width="40" style="filter: invert(1);"/>
-<img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="40"/>
+<img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" alt="GitHub" title="GitHub" width="40"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite" width="40" style="background-color:white; border-radius:4px; padding:2px;"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="40"/>
-<img src="https://img.icons8.com/ios-filled/50/codepen.png" alt="CodePen" title="CodePen" width="40" style="filter: invert(1);"/>
+<img src="https://img.icons8.com/material-rounded/48/ffffff/codepen.png" alt="CodePen" title="CodePen" width="40"/>
 <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="Vercel" title="Vercel" width="40"/>
 <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" title="Netlify" width="40"/>
 
 </div>
-
 
 ---
 
