@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Jashim Uddin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer+from+Bangladesh;Crafting+Clean+and+Responsive+UI;Passionate+about+React+%26+Tailwind;Turning+Designs+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer+from+Bangladesh;Crafting+Clean+and+Responsive+UI;Passionate+about+React+%26+Tailwind;Turning+Designs+into+Code" alt="Typing SVG" />
 </p>
+
 
 
 ### 🎨 Front-End Designer at [Appifylab](https://appifylab.com)
