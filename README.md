@@ -6,7 +6,7 @@
 
 
 
-### 🎨 Front-End Designer at [Appifylab](https://appifylab.com)
+### 🎨 Front-End Developer at [Appifylab](https://appifylab.com)
 *Fully dedicated to building great products with one team, one dream.*
 
 ---
