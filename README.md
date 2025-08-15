@@ -74,7 +74,8 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 </div>
 
-![snake gif](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/output/snake-dark.svg#gh-dark-mode-only)
+
+
 
 </div>
 
