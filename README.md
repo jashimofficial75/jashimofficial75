@@ -88,7 +88,6 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jashimofficial75&show_icons=true)
 
 ## 📫 Let's Connect!
 
