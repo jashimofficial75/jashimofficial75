@@ -93,7 +93,7 @@ I believe in clean code, pixel-perfect design, and building impactful digital ex
 
 ## 📫 Let's Connect!
 
-- 🧑‍💼 [LinkedIn]([https://linkedin.com/in/jashim-u75])
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/jashim-u75)
 - 🌐 [Portfolio Website](https://your-portfolio.com) — *In development*
 - 📬 Email: **jashim.official75@gmail.com**
 
